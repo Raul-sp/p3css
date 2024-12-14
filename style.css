@@ -1,0 +1,15 @@
+#unique{
+    color: blue;
+}
+p{
+    color: blueviolet;
+}
+.descripcion{
+    background-color: bisque;
+}
+li{
+    background-color: aqua !important;
+}
+.card-produc{
+    background-color: orange;
+}
